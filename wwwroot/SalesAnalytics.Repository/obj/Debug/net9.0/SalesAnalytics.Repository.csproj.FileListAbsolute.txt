@@ -1,0 +1,12 @@
+/Users/busracelebi/RiderProjects/SalesAnalytics/wwwroot/SalesAnalytics.Repository/bin/Debug/net9.0/SalesAnalytics.Repository.deps.json
+/Users/busracelebi/RiderProjects/SalesAnalytics/wwwroot/SalesAnalytics.Repository/bin/Debug/net9.0/SalesAnalytics.Repository.dll
+/Users/busracelebi/RiderProjects/SalesAnalytics/wwwroot/SalesAnalytics.Repository/bin/Debug/net9.0/SalesAnalytics.Repository.pdb
+/Users/busracelebi/RiderProjects/SalesAnalytics/wwwroot/SalesAnalytics.Repository/obj/Debug/net9.0/SalesAnalytics.Repository.csproj.AssemblyReference.cache
+/Users/busracelebi/RiderProjects/SalesAnalytics/wwwroot/SalesAnalytics.Repository/obj/Debug/net9.0/SalesAnalytics.Repository.GeneratedMSBuildEditorConfig.editorconfig
+/Users/busracelebi/RiderProjects/SalesAnalytics/wwwroot/SalesAnalytics.Repository/obj/Debug/net9.0/SalesAnalytics.Repository.AssemblyInfoInputs.cache
+/Users/busracelebi/RiderProjects/SalesAnalytics/wwwroot/SalesAnalytics.Repository/obj/Debug/net9.0/SalesAnalytics.Repository.AssemblyInfo.cs
+/Users/busracelebi/RiderProjects/SalesAnalytics/wwwroot/SalesAnalytics.Repository/obj/Debug/net9.0/SalesAnalytics.Repository.csproj.CoreCompileInputs.cache
+/Users/busracelebi/RiderProjects/SalesAnalytics/wwwroot/SalesAnalytics.Repository/obj/Debug/net9.0/SalesAnalytics.Repository.dll
+/Users/busracelebi/RiderProjects/SalesAnalytics/wwwroot/SalesAnalytics.Repository/obj/Debug/net9.0/refint/SalesAnalytics.Repository.dll
+/Users/busracelebi/RiderProjects/SalesAnalytics/wwwroot/SalesAnalytics.Repository/obj/Debug/net9.0/SalesAnalytics.Repository.pdb
+/Users/busracelebi/RiderProjects/SalesAnalytics/wwwroot/SalesAnalytics.Repository/obj/Debug/net9.0/ref/SalesAnalytics.Repository.dll

@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "iS/xjMkrMJKxyfhcpsoy4sLXyVSokol18OKkgMaVuXw=",
+  "Source": "SalesAnalytics.Api",
+  "BasePath": "_content/SalesAnalytics.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
